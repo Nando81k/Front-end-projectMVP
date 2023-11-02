@@ -1,0 +1,47 @@
+/* AmazonDestination.css */
+.AmazonDestination {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.AmazonDestination h1 {
+  font-size: 2.5rem;
+  color: #333;
+  margin: 10px 0;
+}
+
+.AmazonDestination p {
+  font-size: 1.2rem;
+  color: #555;
+  margin: 10px 0;
+}
+
+.Amazon-destination h2 {
+  font-size: 1.8rem;
+  color: #333;
+  margin: 20px 0 10px 0;
+}
+
+.amazon-destination ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  text-align: left;
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.amazon-destination li {
+  margin: 5px 0;
+}
+
+.amazon-destination p:last-child {
+  font-size: 1.5rem;
+  color: #e91e63;
+  font-weight: 600;
+  margin: 20px 0;
+}
